@@ -19,8 +19,12 @@ body{
     left: 50%;
     transform: translate(-50%,-50%);
 }
+h1{
+    color: blanchedalmond;
+    margin-bottom: 12px;
+}
 .master{
-    background-color: aqua;
+      background-color: #f80046;
       padding:77px 70px;  
       position: relative;
       top: 0px;
@@ -59,7 +63,7 @@ body{
     bottom: 0px;
     width: 100%;
     color: white;
-    background-color:blue;
+    background-color:grey;
     cursor: pointer;
     border: none;
     outline: none;
